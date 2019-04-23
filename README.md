@@ -1,2 +1,2 @@
 # blacklist-shodan
-blacklist shodan and censys ips
+Block all Shodan and Censys IPs with iptables
